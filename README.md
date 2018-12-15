@@ -15,7 +15,9 @@ if you are using MacBook or windows  then download the newer version of  python 
 
 In linux the python is pre-installed. So Check if python is installed in your operating System or not.
 
-# Step1: Python --version (if python is already installed in your computer then no need to do second step.)
+# Step1: 
+
+$ Python --version (if python is already installed in your computer then no need to do second step.)
 
 # Step2: 
 
