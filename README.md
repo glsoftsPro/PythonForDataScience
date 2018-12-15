@@ -19,29 +19,29 @@ In linux the python is pre-installed. So Check if python is installed in your op
 
 # Step2: 
 
-//On Debian derivatives such as Ubuntu, use APT:
+# On Debian derivatives such as Ubuntu, use APT:
 
-# $ sudo apt-get install python3
+$ sudo apt-get install python3
 
-//On Red Hat and derivatives, use yum:
+# On Red Hat and derivatives, use yum:
 
-# $ sudo yum install python 
+$ sudo yum install python 
 
-//On SUSE and derivatives, use zypper:
+# On SUSE and derivatives, use zypper:
 
-# $ sudo zypper install python3
+$ sudo zypper install python3
 
-Step3: Open Terminel or Command Prompt and check if python installed correctly or not.
+# Step3: Open Terminel or Command Prompt and check if python installed correctly or not.
 
-# $ Python --version
+$ Python --version
 
 So we are completed with setuping python environment in our computers.
 
 # Install Python Dependencies required for DataScience. Here I mentioned some python mechine learning libraries for DataScience.
 
-Step1: Install Python Pip.
+# Step1: Install Python Pip.
 
-# $ pip install -U pip
+$ pip install -U pip
 
-Step2: Install python dependencies.
+# Step2: Install python dependencies.
 
