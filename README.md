@@ -7,7 +7,7 @@ So before we start lets create python environment in your pc/laptop.
 
 Getting Python for Windows and MacBook
 
-Install Python from offical website: https://python.org/download
+Install Python from offical website: https://python.org/downloads
 
 if you are using MacBook or windows  then download the newer version of  python (python 3.7.1) for MacOS X qnd windows.
 
